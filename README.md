@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Results-oriented software engineering professional with expertise in building secure applications. Excellent team player with a positive attitude. Solid background building Web and mobile applications. With 3 years of experience, I offer high motivation and positivity with great organizational and communication skills, customer service master, efficient problem solving and mostly, fast amazing learning ability for new technologies and staff.
+
+- 📫 How to reach me: ... 
+   **Email** : harfrank2@gmail.com
+   **Skype** : harfrank3:live
+
