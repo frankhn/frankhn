@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankhn&show_icons=true&theme=noctis_minimus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhn&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=noctis_minimus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhn&layout=compact&show_icons=true&theme=noctis_minimus)
 <!--
 **frankhn/frankhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
