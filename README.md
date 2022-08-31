@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankhn)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true&theme=noctis_minimus)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankhn&show_icons=true)
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankhn)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=noctis_minimus) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhn&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=noctis_minimus)
 <!--
