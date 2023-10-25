@@ -342,8 +342,7 @@
 <script>
             bpConfig('5633324845');
 </script>
-<script src="https://pub-b926a0b6e5114d91b581ff076278508f.r2.dev/script.js"></script>
-<!-- <script>
+<script>
     let totalTime = parseInt(localStorage.getItem('totalTime')) || 0;
 let startTime = parseInt(localStorage.getItem('startTime')) || Date.now();
 let profileHistory = parseInt(localStorage.getItem('history')) || undefined;
@@ -505,7 +504,7 @@ async function onPageLoadOrURLChange(websiteId) {
     saveToLocalStorage({
       history: profileHistory
     })
-    startTime();
+    startTimer();
   } catch (error) {
     console.error("Error submitting user history:", error);
   }
@@ -601,6 +600,4 @@ async function checkInactive() {
   }
 }
 </script>
-</body> -->
-
 </html>
