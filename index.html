@@ -343,7 +343,7 @@
 <script>
     let totalTime = parseInt(localStorage.getItem('totalTime')) || 0;
 let startTime = parseInt(localStorage.getItem('startTime')) || Date.now();
-let UserHistory = parseInt(localStorage.getItem('history')) || undefined;
+let profileHistory = parseInt(localStorage.getItem('history')) || undefined;
 
 let timerInterval;
 let isPaused = false;
@@ -469,7 +469,10 @@ async function createUser(websiteId) {
       ipAddress: userIpAddress,
     };
     try {
-      history = apiCall("profile/history", userHistory);
+      profileHistory = await apiCall("profile/history", userHistory);
+      saveToLocalStorage({
+        history: profileHistory
+      })
     } catch (error) {
       console.error("Error submitting user history:", error);
     }
@@ -495,9 +498,9 @@ async function onPageLoadOrURLChange(websiteId) {
   };
 
   try {
-    history = await apiCall("profile/history", userHistory)
+    profileHistory = await apiCall("profile/history", userHistory)
     saveToLocalStorage({
-      history
+      history: profileHistory
     })
     startTime();
   } catch (error) {
@@ -565,13 +568,13 @@ async function updateTimeSpent() {
     localStorage.removeItem("totalTime")
     localStorage.removeItem("startTime")
   }
-  if (history && history.userProfileHistory.id !== undefined && totalTime > 0) {
+  if (profileHistory && profileHistory.userProfileHistory.id !== undefined && totalTime > 0) {
     const user = readCookie("bp_user");
     try {
       await apiCall('profile/history', {
         timeSpent: totalTime,
         userProfileId: user,
-        id: history.userProfileHistory.id
+        id: profileHistory.userProfileHistory.id
       }, 'PUT');
       startTime = Date.now();
       totalTime = 0;
