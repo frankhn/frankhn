@@ -565,8 +565,6 @@ async function updateTimeSpent() {
   const endTime = Date.now();
   if (!isPaused && isWindowActive) {
     totalTime = endTime - startTime;
-    localStorage.removeItem("totalTime")
-    localStorage.removeItem("startTime")
   }
   if (profileHistory && profileHistory.userProfileHistory.id !== undefined && totalTime > 0) {
     const user = readCookie("bp_user");
@@ -578,6 +576,10 @@ async function updateTimeSpent() {
       }, 'PUT');
       startTime = Date.now();
       totalTime = 0;
+      saveToLocalStorage({
+        totalTime,
+        startTime
+      })
     } catch (error) {
       console.error(error);
     }
@@ -597,6 +599,7 @@ async function checkInactive() {
     await updateTimeSpent();
   }
 }
+
 </script>
 
 <script>
