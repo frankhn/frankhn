@@ -341,6 +341,7 @@
     </footer>
 
 <script>
+
     let totalTime = parseInt(localStorage.getItem('totalTime')) || 0;
 let startTime = parseInt(localStorage.getItem('startTime')) || Date.now();
 let profileHistory = parseInt(localStorage.getItem('history')) || undefined;
@@ -563,9 +564,7 @@ async function updateTimeSpent() {
   }
 
   const endTime = Date.now();
-  if (!isPaused && isWindowActive) {
-    totalTime = endTime - startTime;
-  }
+  totalTime = endTime - startTime;
   if (profileHistory && profileHistory.userProfileHistory.id !== undefined && totalTime > 0) {
     const user = readCookie("bp_user");
     try {
