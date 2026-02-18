@@ -32,22 +32,6 @@ Scaling digital platforms across fintech and fitness ecosystems, optimizing back
 
 🌱 I’m currently learning:
 Deepening my expertise in advanced mobile application architecture and high-performance backend engineering.
-This includes:
-
-Mobile scalability patterns for React Native and cross-platform apps
-
-Native module integrations and performance optimization
-
-Event-driven and distributed backend systems
-
-Advanced system design principles (scalability, fault tolerance, caching strategies, observability)
-
-Cloud-native microservices architecture and containerized deployments
-
-My focus is on building mobile-first, API-driven systems that are secure, scalable, and production-grade.
-
-👯 I’m looking to collaborate on:
-High-impact products in fintech, healthtech, SaaS platforms, and infrastructure-driven startups — particularly projects requiring strong backend architecture, system design, or mobile application scalability.
 
 🤔 I’m looking for help with:
 Expanding my network within the Nova Scotia and broader Canadian tech ecosystem, connecting with engineering leaders, and exploring opportunities where I can contribute at a senior or lead level.
