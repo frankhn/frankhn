@@ -9,21 +9,11 @@ I started my career in software engineering with a strong foundation in backend 
 
 Fintech
 
-Digital payments
-
-AWS cloud systems
-
-Mobile applications
-
-USSD platforms
-
-Enterprise software
+Digital payments, AWS cloud systems, Mobile applications, USSD platforms, Enterprise software
 
 Beyond engineering, I’ve built and led teams — serving as a Software Engineering Team Lead at BK Techouse and founding:
 
-Landon Fitness Gym
-
-Nuru Labs
+Landon Fitness Gym, Nuru Labs
 
 I combine technology, operations, and product thinking to drive real-world impact.
 
@@ -59,46 +49,16 @@ Exploring senior or lead-level opportunities
 
 💬 Ask Me About
 
-Backend architecture (Node.js or .NET)
-
-AWS serverless systems
-
-USSD platforms
-
-Mobile app lifecycle management
-
-Engineering team leadership
+Backend architecture (Node.js or .NET), AWS serverless systems, USSD platforms, Mobile app lifecycle management, Engineering team leadership
 
 Building technology-driven businesses from scratch
 
 🛠️ Tech Stack
-Frontend
+Frontend: React, SCSS, React Router
 
-React
+Backend: Node.js, Express.js, SQL, MySQL, 
 
-SCSS
-
-React Router
-
-Backend
-
-Node.js
-
-Express.js
-
-SQL
-
-MySQL
-
-Other Tools & Technologies
-
-REST APIs
-
-Git & GitHub
-
-Python
-
-React Native
+Other Tools & Technologies: REST APIs, Git & GitHub, Python, React Native
 
 📫 Contact Me
 
