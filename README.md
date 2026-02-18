@@ -16,9 +16,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meet Frank, a results-oriented software engineering professional with expertise in building secure applications. Excellent team player with a positive attitude. Solid background building Web and mobile applications. With 5 years of experience, I offer high motivation and positivity with great organizational and communication skills, customer service master, efficient problem solving and mostly, fast amazing learning ability for new technologies and staff.
 
-- 📫 How to reach me: ... 
-   *Email* : harfrank2@gmail.com
-   *Skype* : harfrank3:live
-   *Resume* : https://frankhn.github.io/frankhn
+Hello there, My name is Frank Harerimana
+
+I’m a Full-Stack Software Engineer, Engineering Leader, and Tech Founder based in Kigali, Rwanda.
+
+I started my career in software engineering with a strong foundation in backend systems and scalable web applications. Over the years, I’ve grown into a multidisciplinary engineer with experience across fintech, digital payments, AWS cloud systems, mobile apps, USSD platforms, and enterprise software.
+
+Beyond engineering, I’ve also built and led teams — serving as a Software Engineering Team Lead at BK Techouse and founding both Landon Fitness Gym and Nuru Labs, where I combine technology, operations, and product thinking to drive real-world impact.
+
+What excites me most about software is solving meaningful problems — whether that’s enabling farmers with digital tools, helping schools receive instant payments, or architecting cloud systems that scale.
+
+🔭 I’m currently working on:
+Scaling digital platforms across fintech and fitness ecosystems, optimizing backend architectures for performance and reliability, and integrating technology into real-world businesses (including gym management systems, access control, and digital membership platforms). I’m also refining cloud-native deployment strategies and improving CI/CD workflows for production-ready applications.
+
+🌱 I’m currently learning:
+Deepening my expertise in advanced mobile application architecture and high-performance backend engineering.
+This includes:
+
+Mobile scalability patterns for React Native and cross-platform apps
+
+Native module integrations and performance optimization
+
+Event-driven and distributed backend systems
+
+Advanced system design principles (scalability, fault tolerance, caching strategies, observability)
+
+Cloud-native microservices architecture and containerized deployments
+
+My focus is on building mobile-first, API-driven systems that are secure, scalable, and production-grade.
+
+👯 I’m looking to collaborate on:
+High-impact products in fintech, healthtech, SaaS platforms, and infrastructure-driven startups — particularly projects requiring strong backend architecture, system design, or mobile application scalability.
+
+🤔 I’m looking for help with:
+Expanding my network within the Nova Scotia and broader Canadian tech ecosystem, connecting with engineering leaders, and exploring opportunities where I can contribute at a senior or lead level.
+
+💬 Ask me about:
+Backend architecture with Node.js or .NET, AWS serverless systems, USSD platforms, mobile app lifecycle management, engineering team leadership, or building technology-driven businesses from scratch.
+
+📫 How to reach me:
+📍 Kigali, Rwanda (Open to remote & relocation opportunities)
+📧 harfrank2@gmail.com
+🔗 https://www.linkedin.com/in/frankhn/
+
+😄 Pronouns:
+He / Him
+
+⚡ Fun fact:
+I combine software engineering with entrepreneurship — I run a fitness gym while architecting backend systems. I believe discipline in fitness and discipline in engineering follow the same principle: consistency compounds.
+
