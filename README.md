@@ -30,14 +30,23 @@ What excites me most about software is solving meaningful problems — whether t
 🔭 I’m currently working on:
 Scaling digital platforms across fintech and fitness ecosystems, optimizing backend architectures for performance and reliability, and integrating technology into real-world businesses (including gym management systems, access control, and digital membership platforms). I’m also refining cloud-native deployment strategies and improving CI/CD workflows for production-ready applications.
 
+
 🌱 I’m currently learning:
 Deepening my expertise in advanced mobile application architecture and high-performance backend engineering.
+
 
 🤔 I’m looking for help with:
 Expanding my network within the Nova Scotia and broader Canadian tech ecosystem, connecting with engineering leaders, and exploring opportunities where I can contribute at a senior or lead level.
 
+
 💬 Ask me about:
 Backend architecture with Node.js or .NET, AWS serverless systems, USSD platforms, mobile app lifecycle management, engineering team leadership, or building technology-driven businesses from scratch.
+
+🛠️ My Tech Stack
+Frontend: React, SCSS, React Router
+Backend: Node.js, Express.js, SQL, MySQL,
+Other: REST APIs, Git/Github, Python, React Native
+
 
 📫 How to reach me:
 📍 Kigali, Rwanda (Open to remote & relocation opportunities)
