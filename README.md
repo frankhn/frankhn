@@ -1,61 +1,120 @@
-### Hi there 👋
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankhn&show_icons=true&theme=noctis_minimus)
+👋 Hi there!
+👨🏾‍💻 About Me
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhn&layout=compact&show_icons=true&theme=noctis_minimus)
-<!--
-**frankhn/frankhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hello there, My name is Frank Harerimana
+Hello there — my name is Frank Harerimana.
 
 I’m a Full-Stack Software Engineer, Engineering Leader, and Tech Founder based in Kigali, Rwanda.
 
-I started my career in software engineering with a strong foundation in backend systems and scalable web applications. Over the years, I’ve grown into a multidisciplinary engineer with experience across fintech, digital payments, AWS cloud systems, mobile apps, USSD platforms, and enterprise software.
+I started my career in software engineering with a strong foundation in backend systems and scalable web applications. Over the years, I’ve grown into a multidisciplinary engineer with experience across:
 
-Beyond engineering, I’ve also built and led teams — serving as a Software Engineering Team Lead at BK Techouse and founding both Landon Fitness Gym and Nuru Labs, where I combine technology, operations, and product thinking to drive real-world impact.
+Fintech
+
+Digital payments
+
+AWS cloud systems
+
+Mobile applications
+
+USSD platforms
+
+Enterprise software
+
+Beyond engineering, I’ve built and led teams — serving as a Software Engineering Team Lead at BK Techouse and founding:
+
+Landon Fitness Gym
+
+Nuru Labs
+
+I combine technology, operations, and product thinking to drive real-world impact.
 
 What excites me most about software is solving meaningful problems — whether that’s enabling farmers with digital tools, helping schools receive instant payments, or architecting cloud systems that scale.
 
-🔭 I’m currently working on:
-Scaling digital platforms across fintech and fitness ecosystems, optimizing backend architectures for performance and reliability, and integrating technology into real-world businesses (including gym management systems, access control, and digital membership platforms). I’m also refining cloud-native deployment strategies and improving CI/CD workflows for production-ready applications.
+🔭 What I’m Currently Working On
 
+Scaling digital platforms across fintech and fitness ecosystems
 
-🌱 I’m currently learning:
-Deepening my expertise in advanced mobile application architecture and high-performance backend engineering.
+Optimizing backend architectures for performance and reliability
 
+Integrating technology into real-world businesses (gym management systems, access control, digital membership platforms)
 
-🤔 I’m looking for help with:
-Expanding my network within the Nova Scotia and broader Canadian tech ecosystem, connecting with engineering leaders, and exploring opportunities where I can contribute at a senior or lead level.
+Refining cloud-native deployment strategies
 
+Improving CI/CD workflows for production-ready applications
 
-💬 Ask me about:
-Backend architecture with Node.js or .NET, AWS serverless systems, USSD platforms, mobile app lifecycle management, engineering team leadership, or building technology-driven businesses from scratch.
+🌱 Currently Learning
 
-🛠️ My Tech Stack
-Frontend: React, SCSS, React Router
-Backend: Node.js, Express.js, SQL, MySQL,
-Other: REST APIs, Git/Github, Python, React Native
+Advanced mobile application architecture
 
+High-performance backend engineering
 
-📫 How to reach me:
+🤝 Looking to Connect
+
+I’m interested in:
+
+Expanding my network within the Nova Scotia and broader Canadian tech ecosystem
+
+Connecting with engineering leaders
+
+Exploring senior or lead-level opportunities
+
+💬 Ask Me About
+
+Backend architecture (Node.js or .NET)
+
+AWS serverless systems
+
+USSD platforms
+
+Mobile app lifecycle management
+
+Engineering team leadership
+
+Building technology-driven businesses from scratch
+
+🛠️ Tech Stack
+Frontend
+
+React
+
+SCSS
+
+React Router
+
+Backend
+
+Node.js
+
+Express.js
+
+SQL
+
+MySQL
+
+Other Tools & Technologies
+
+REST APIs
+
+Git & GitHub
+
+Python
+
+React Native
+
+📫 Contact Me
+
 📍 Kigali, Rwanda (Open to remote & relocation opportunities)
 📧 harfrank2@gmail.com
+
 🔗 https://www.linkedin.com/in/frankhn/
 
-😄 Pronouns:
+😄 Pronouns
+
 He / Him
 
-⚡ Fun fact:
-I combine software engineering with entrepreneurship — I run a fitness gym while architecting backend systems. I believe discipline in fitness and discipline in engineering follow the same principle: consistency compounds.
+⚡ Fun Fact
 
+I combine software engineering with entrepreneurship — I run a fitness gym while architecting backend systems.
+
+I believe discipline in fitness and discipline in engineering follow the same principle:
+
+Consistency compounds.
