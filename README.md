@@ -1,80 +1,56 @@
-👋 Hi there!
-👨🏾‍💻 About Me
+# 🌊 Hey there, I'm Frank Harerimana! ⚓  
 
-Hello there — my name is Frank Harerimana.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/frankhn/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/frankhn) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:harfrank2@gmail.com)
 
-I’m a Full-Stack Software Engineer, Engineering Leader, and Tech Founder based in Kigali, Rwanda.
+---
 
-I started my career in software engineering with a strong foundation in backend systems and scalable web applications. Over the years, I’ve grown into a multidisciplinary engineer with experience across:
+### 🌟 About Me  
+- 🎯 **Full-Stack Software Engineer, Engineering Leader, and Tech Founder based in Kigali, Rwanda.**  
+- 🌱 **Currently Learning**: Scaling digital platforms across fintech and fitness ecosystems, What excites me most about software is solving meaningful problems — whether that’s enabling farmers with digital tools, helping schools receive instant payments, or architecting cloud systems that scale and refining cloud-native deployment strategies.
+- 🛶 **Passionate About**: Progressive **data-driven solutions** to real-world problems, **quantum mechanics**, and **kindness**  
+- 🐱 **Fun Facts**: I'm a fitness coach **GYM OWNER**, Side hustle ** *** ** I enjoy music and sometime I DJ myself out**
 
-Fintech
+---
 
-Digital payments, AWS cloud systems, Mobile applications, USSD platforms, Enterprise software
+### 💻 Tech Stack  
 
-Beyond engineering, I’ve built and led teams — serving as a Software Engineering Team Lead at BK Techouse and founding:
+#### 🚀 **Languages & Tools**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![DOM](https://img.shields.io/badge/DOM-Manipulation-%23FFDD44?style=flat)
 
-Landon Fitness Gym, Nuru Labs
+#### 🏗️ **Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-I combine technology, operations, and product thinking to drive real-world impact.
+#### 🔧 **Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white)
 
-What excites me most about software is solving meaningful problems — whether that’s enabling farmers with digital tools, helping schools receive instant payments, or architecting cloud systems that scale.
+#### ⚡ **Other Skills**  
+- **Agile Methodologies** (Scrum, Kanban)  
+- **RESTful APIs & Deployment**  
+- **Version Control & CI/CD Pipelines**  
 
-🔭 What I’m Currently Working On
+---
 
-Scaling digital platforms across fintech and fitness ecosystems
+### 📊 GitHub Stats   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankhn&show_icons=true&theme=radical)
+[![GitHub Contribution Graph](https://ghchart.rshah.org/frankhn)](https://github.com/frankhn)
 
-Optimizing backend architectures for performance and reliability
 
-Integrating technology into real-world businesses (gym management systems, access control, digital membership platforms)
+---
 
-Refining cloud-native deployment strategies
+### ☕ Let's Connect!  
+💬 **Ask me about:** Full-stack development, transitioning careers, project management, and horror films!  
+📩 **Reach out via:** [Email](mailto:harfrank2@gmail.com) or [LinkedIn](https://www.linkedin.com/in/frankhn/)  
 
-Improving CI/CD workflows for production-ready applications
-
-🌱 Currently Learning
-
-Advanced mobile application architecture
-
-High-performance backend engineering
-
-🤝 Looking to Connect
-
-I’m interested in:
-
-Expanding my network within the Nova Scotia and broader Canadian tech ecosystem
-
-Connecting with engineering leaders
-
-Exploring senior or lead-level opportunities
-
-💬 Ask Me About
-
-Backend architecture (Node.js or .NET), AWS serverless systems, USSD platforms, Mobile app lifecycle management, Engineering team leadership
-
-Building technology-driven businesses from scratch
-
-🛠️ Tech Stack
-Frontend: React, SCSS, React Router
-
-Backend: Node.js, Express.js, SQL, MySQL, 
-
-Other Tools & Technologies: REST APIs, Git & GitHub, Python, React Native
-
-📫 Contact Me
-
-📍 Kigali, Rwanda (Open to remote & relocation opportunities)
-📧 harfrank2@gmail.com
-
-🔗 https://www.linkedin.com/in/frankhn/
-
-😄 Pronouns
-
-He / Him
-
-⚡ Fun Fact
-
-I combine software engineering with entrepreneurship — I run a fitness gym while architecting backend systems.
-
-I believe discipline in fitness and discipline in engineering follow the same principle:
-
-Consistency compounds.
+> *“The scariest moment is always just before you start.”* – Stephen King 
